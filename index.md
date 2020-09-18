@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Bem-vindos a impacta auto escola<br>
+Com profissionais capacitados, atentos e uma equipe comprometida, a impacta Autoescola é um centro de formação. Preza por uma didática excepcional e valoriza o prezar pela vida. Oferece os melhores ensinamentos para quem almeja a habilitação para condução, e otimos carros para sua experiencia.
 
-You can use the [editor on GitHub](https://github.com/ItsRick14/impacta-autoesecola/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### 1º habilitação
+A 1º Habilitação é um desejo de todo o jovem que completa 18 anos. Mas também ainda é o sonho de inúmeros adultos mais velhos que buscam, enfim, retirar a permissão para a condução de veículo automotor. Muitas vezes, o preço assusta e é preciso, em muitos casos, fazer economias, para assim requerer a habilitação.<br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### documentos necessários
+Carteira de Identidade (RG)<br>
+Cadastro de Pessoa Física (CPF)<br>
+Comprovante ORIGINAL de endereço em
+seu nome ou de seus pais (conta de luz,
+água, banco, telefone fixo ou celular)<br>
 
-### Markdown
+### preço
+Carro: R$ 2.270,76<br>
+Moto: R$ 1950,51<br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### horarios
+pratica:
+Seg./Sex: Das 07:00 Às 19:40<br>
+Sábado: Das 07:00 Às 12:00<br>
 
-```markdown
-Syntax highlighted code block
+teorica
+Manhã Das 7:30 Às 11:20<br>
+Tarde Das 13:30 Às 17:20<br>
+Noite Das 19:00 Às 22:50<br>
+Sábado: Das 08:00 Às 11:50<br>
 
-# Header 1
-## Header 2
-### Header 3
+### contate-nos 
+Emai: impactaautoescola@gmail.com<br>
+Número: 4738-8252<br>
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ItsRick14/impacta-autoesecola/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### endereço 
+Av. Rudge, 315 - Bom Retiro, São Paulo - SP
